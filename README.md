@@ -1,0 +1,1 @@
+# Digital-Image-Processing-Image-Resizing-By-Seam-Carving
